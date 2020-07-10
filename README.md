@@ -1,3 +1,8 @@
+
+This repository is inspired by [clementmihailescu's](https://github.com/clementmihailescu) Project in here https://github.com/clementmihailescu/Pathfinding-Visualizer. 
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
